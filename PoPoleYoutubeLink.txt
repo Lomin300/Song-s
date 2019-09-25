@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=v_Y5FH_tCpc&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2&index=15
+13장부터 19장까지 유니티 2D플렛포머 강좌.
+개발이 간단하고 가볍게 진행되므로 기본적인 2D플렛포머 큰 틀을 알 수 있음.
+특징으로 도트, 횡스크롤, 아케이드 장르, 간단함, 쉬움, 적은 스크립트 사용
+처음부터 끝까지 개발 과정을 모두 보여주어 기초적인 부분까지 알 수 있다.
+
+https://www.youtube.com/watch?v=dtpthaIYa8g&list=PL412Ym60h6uunDV_SaHfBXzfMhBjOFTnj
+유니티 공식 2D 플랫포머 유튜브 강좌
+짧은 영상으로 개발에 필요한 기술 부분을 설명해준다.
+특징으로 타일맵, 시네머신2D 등 
+어느정도 2D플랫포머의 기초적인 틀을 알고 난 뒤 기술적인 부분을 참고하기 위해 필요한 영상
